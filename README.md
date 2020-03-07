@@ -1,2 +1,2 @@
-# hridiscript
-Scripts I use to automate tasks
+# dotfiles
+Scripts/configurations I use
